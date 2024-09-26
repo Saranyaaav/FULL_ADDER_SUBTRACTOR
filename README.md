@@ -49,7 +49,21 @@ Write the detailed procedure here
 
 **RTL Schematic**
 
+FULL ADDER
+![Screenshot 2024-09-20 084707](https://github.com/user-attachments/assets/d6dacc78-20eb-475d-8c1d-32b01eb660ff)
+
+FULL SUBTRACTOR
+![Screenshot 2024-09-20 091445](https://github.com/user-attachments/assets/f4d22e08-58d0-49e8-8f69-17e3bbbd21ff)
+
+
 **Output Timing Waveform**
+
+FULL ADDER
+![Screenshot 2024-09-20 085759](https://github.com/user-attachments/assets/45253411-0700-41c8-a943-0091a08046b9)
+
+FULL SUBTRACTOR
+![Screenshot 2024-09-20 091857](https://github.com/user-attachments/assets/e03f8152-ffe3-48fb-a166-51ee8edb0b33)
+
 
 **Result:**
 
